@@ -1,13 +1,18 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3DDC84,1A1A1A,8B5CF6&height=220&section=header&text=Vaibhav%20Pandey&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Android%20Developer%20•%20Jetpack%20Compose%20•%20Machine%20Learning&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
 <img width="100%" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq-6g8CwmiZhI7Px7wEjn19R7h-nPLOxhCVtaKpDHA92i9Eufx9DsvoZq1nAvs2Pb1Z_vncc2tT7fY280UGI9Wgu3COPjEb48StdKdUTXgTWlvSsQ0EHFKK5IYR6NXxQ_TOIlLasPhnayIqB0mzz3vPiJ4m7cEEoDS3S_qQATvF1qv3cC6rfSWxJkhxjE/s1600/AfD-Meet%20the%20Android%20Studio%20Team-Header-4209x1253-Nov21-option2-2.png" />
 
 <h1 align="center">Hi 👋, I'm Vaibhav Pandey</h1>
+
+</div>
 
 <h3 align="center">
 Passionate Android & Software Developer from India 🇮🇳
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Android+Developer;Kotlin+%26+Jetpack+Compose+Enthusiast;Firebase+Developer;Open+Source+Learner" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=3DDC84&center=true&vCenter=true&width=850&lines=Android+Developer;Jetpack+Compose+Enthusiast;Open+Source+Contributor;Machine+Learning+Explorer;Always+Learning+Something+New+🚀" />
+
 </p>
 
 ---
@@ -48,7 +53,7 @@ Passionate Android & Software Developer from India 🇮🇳
 
 ---
 
-## <img src="../assets/tech-stack.svg" width="28" height="28" align="center" style="vertical-align: middle;" />  Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="28" /> Tech Stack
 
 <div align="center">
 
