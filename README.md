@@ -76,21 +76,23 @@ Passionate Android & Software Developer from India 🇮🇳
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibhav-P1&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibhav-P1&theme=tokyonight" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vaibhav-P1&theme=tokyonight" />
-</p>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhav-p1&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaibhav-P1&theme=tokyonight" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaibhav-P1&theme=tokyonight&utcOffset=5.5" />
-</p>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaibhav-p1&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vaibhav-p1&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaibhav-p1&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vaibhav-p1&theme=github_dark&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vaibhav-p1&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=FFFFFF" />
+
+</div>
 
 ---
 
